@@ -10,7 +10,7 @@ const About = () => {
         all things tech, especially writing code. As you will see below I have
         years of experience in sales and management however its during my years
         as a manager I discovered my true passion. As I have always been the
-        "go-to" tech guy in the office. I then decided to change my career and
+        go-to tech guy in the office. I then decided to change my career and
         follow the path im passionate about.
       </p>
       <ul>
@@ -20,16 +20,16 @@ const About = () => {
           2022
         </li>
         <li>
-          The Complete 2021 Web Development BOOT‑CAMP - Udemy Course - November
+          The Complete 2021 Web Development BOOTCAMP - Udemy Course - November
           2020 to June 2021
         </li>
         <li>
-          Finance for non ‑ financial managers - Old Mutual Business School -
+          Finance for non financial managers - Old Mutual Business School -
           2016
         </li>
         <li>
           Manager of others development programme - Old Mutual Business School -
-          2011{" "}
+          2011
         </li>
         <li>Regulatory Exam 5 - Moon Stone - 2011</li>
         <li>Wealth Management NQF5 - Recognition of prior learning - 2009</li>

@@ -1,5 +1,5 @@
 //the Head allows us to pass in CDN's like google fonts and react-bootstrap
-import Head from "next/Head";
+import Head from "next/head";
 //Header components holds the links that behave as the navbar
 import Header from "./Header";
 

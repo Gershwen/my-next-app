@@ -1,5 +1,5 @@
 //using Link from the Next API to ensure client side navigation. Otherwise the request will be made to the server.
-import Link from "next/Link";
+import Link from "next/link";
 
 //the below style get passed to the a tags as variable
 const linkStyle = {

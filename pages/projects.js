@@ -1,11 +1,11 @@
 //the Layout component gets imported and used to wrap around the page's content
 import Layout from "../components/MyLayout";
-import Link from "next/Link";
+import Link from "next/link";
 //Container, Row, Col, Image gets imported from React-Bootstrap. These styles/containers are used to wrap the content of the page
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Image from "react-bootstrap/Image";
+import Container from "react-bootstrap/container";
+import Row from "react-bootstrap/row";
+import Col from "react-bootstrap/col";
+import Image from "react-bootstrap/image";
 
 const Projects = () => {
   return (

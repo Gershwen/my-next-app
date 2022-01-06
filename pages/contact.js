@@ -1,6 +1,6 @@
 //the Layout component gets imported and used to wrap around the page's content
 import Layout from "../components/MyLayout";
-import Link from "next/Link";
+import Link from "next/link";
 
 const Contact = () => {
   return (

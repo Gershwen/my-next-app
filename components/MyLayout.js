@@ -15,7 +15,7 @@ const Layout = (props) => {
   return (
     <div>
       <Head>
-        <title>Gershwen's Portfolio</title>
+        <title>Gershwen Portfolio</title>
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"

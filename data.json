@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "githubrepo": "https://github.com/Gershwen/planets-fact-site-project",
+    "appUri": "https://gershwen.github.io/planets-fact-site-project/",
+    "imgsrc": "../../PlanetsSite.png",
+    "alt": "thumbnail of planets site",
+    "description": "8 page website built with Semantic HTML, CSS and JavaScript using a Figma design"
+  },
+  {
+    "id": 2,
+    "githubrepo": "https://github.com/Gershwen/sunnyside-landing-page-project",
+    "appUri": "https://gershwen.github.io/sunnyside-landing-page-project/",
+    "imgsrc": "../../SunnySideLandingPage.png",
+    "alt": "thumbnail of sunnyside site",
+    "description": "Landing built with Semantic HTML, CSS and JavaScript using a Figma design"
+  },
+  {
+    "id": 3,
+    "githubrepo": "https://github.com/Gershwen/Capstone_project_2",
+    "appUri": "https://gershwen.github.io/Capstone_project_2/",
+    "imgsrc": "../../OnlineStore.png",
+    "alt": "thumbnail of online store",
+    "description": "Online store built using Semantic HTML, Bootstrap & jQuery."
+  },
+  {
+    "id": 4,
+    "githubrepo": "https://github.com/Gershwen/Full_Stack_iTunes_Search_App/tree/main/backend",
+    "appUri": "https://itunessearch-app.herokuapp.com/",
+    "imgsrc": "../../FullStackiTunesApp.png",
+    "alt": "thumbnail of iTunes App",
+    "description": "Full-Stack web App using iTunes API"
+  },
+  {
+    "id": 5,
+    "githubrepo": "https://github.com/Gershwen/Minesweeper-Game",
+    "appUri": "",
+    "imgsrc": "../../MinesweeperGame.png",
+    "alt": "thumbnail of Minesweeper game",
+    "description": "Minesweeper game built with React.js"
+  },
+  {
+    "id": 6,
+    "githubrepo": "https://github.com/Gershwen/edoc2",
+    "appUri": "https://edoc2.herokuapp.com/",
+    "imgsrc": "../../eDoc.png",
+    "alt": "thumbnail of eDoc app",
+    "description": "Application built using Next.js with a custom express server. Using MongoDB as the database to store user details including password encryotion. JWT for authentication."
+  }
+]

@@ -7,7 +7,7 @@ import Header from "./Header";
 const layoutStyle = {
   margin: 20,
   padding: 20,
-  border: "1px solid #DDD",
+  // border: "1px solid #DDD",
 };
 
 //the layout component is what we will wrap all pages in to pass the same styles to all pages.
@@ -15,6 +15,7 @@ const Layout = (props) => {
   return (
     <div>
       <Head>
+        <title>Gershwen's Portfolio</title>
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
@@ -52,6 +53,22 @@ const Layout = (props) => {
             font-family: "Poppins", sans-serif;
             font-weight: 400;
             font-size: 1em;
+          }
+          .project-container {
+            width: 30%;
+            margin: 10px;
+            text-align: center;
+          }
+          .container {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+          }
+          .links {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 2.5em 0 2.5em;
           }
         `}
       </style>

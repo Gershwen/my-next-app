@@ -22,7 +22,7 @@ const Layout = (props) => {
           crossOrigin="anonymous"
         />
         {/* google analytics */}
-        <script
+        {/* <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-TFLQGZ2EQE"
         ></script>
@@ -30,7 +30,7 @@ const Layout = (props) => {
           window.dataLayer = window.dataLayer || []; function gtag()
           {dataLayer.push(arguments)}
           gtag('js', new Date()); gtag('config', 'G-TFLQGZ2EQE');
-        </script>
+        </script> */}
       </Head>
       <div style={layoutStyle}>
         <Header />

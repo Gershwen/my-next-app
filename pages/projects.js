@@ -15,7 +15,7 @@ const Projects = () => {
         <Row>
           <Col xs={6} md={4}>
             <Link href="https://gershwen.github.io/planets-fact-site-project/" passHref>
-              <Image src="/public/PlanetsSite.png" thumbnail alt="thumbnail of planets site" />
+              <Image src="../../PlanetsSite.png" thumbnail alt="thumbnail of planets site" />
             </Link>
             <h3>
               8 page website built with Semantic HTML, CSS and JavaScript using
@@ -24,7 +24,7 @@ const Projects = () => {
           </Col>
           <Col xs={6} md={4}>
             <Link href="https://gershwen.github.io/sunnyside-landing-page-project/" passHref>
-              <Image src="/public/SunnySideLandingPage.png" thumbnail alt="thumbnail of sunnyside site" />
+              <Image src="../../SunnySideLandingPage.png" thumbnail alt="thumbnail of sunnyside site" />
             </Link>
             <h3>
               Landing built with Semantic HTML, CSS and JavaScript using a Figma
@@ -33,7 +33,7 @@ const Projects = () => {
           </Col>
           <Col xs={6} md={4}>
             <Link href="https://github.com/Gershwen/Capstone_project_2" passHref>
-              <Image src="/public/OnlineStore.png" thumbnail alt="thumbnail of online store" />
+              <Image src="../../OnlineStore.png" thumbnail alt="thumbnail of online store" />
             </Link>
             <h3>Online store built using Semantic HTML, Bootstrap & jQuery.</h3>
           </Col>
@@ -41,13 +41,13 @@ const Projects = () => {
         <Row>
           <Col xs={6} md={4}>
             <Link href="https://github.com/Gershwen/Full_Stack_iTunes_Search_App/tree/main/backend" passHref>
-              <Image src="/public/FullStackiTunesApp.png" thumbnail alt="thumbnail of iTunes App" />
+              <Image src="../../FullStackiTunesApp.png" thumbnail alt="thumbnail of iTunes App" />
             </Link>
             <h3>Full-Stack web App using iTunes API</h3>
           </Col>
           <Col xs={6} md={4}>
             <Link href="https://github.com/Gershwen/Minesweeper-Game" passHref>
-              <Image src="/public/MinesweeperGame.png" thumbnail alt="thumbnail of Minesweeper game" />
+              <Image src="../../MinesweeperGame.png" thumbnail alt="thumbnail of Minesweeper game" />
             </Link>
             <h3>Minesweeper game built with React.js</h3>
           </Col>

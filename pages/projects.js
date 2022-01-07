@@ -11,7 +11,7 @@ const Projects = () => {
       <div className="container">
         {data.map((project) => {
           return (
-            <div className="project-container">
+            <div key={project.id} className="project-container">
               <Image src={project.imgsrc} thumbnail alt={project.alt} />
               <h3>{project.description}</h3>
               <div className="links">
